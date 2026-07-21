@@ -1,0 +1,1 @@
+# AWS-Terraform-Docker-AmazonECR-ECS
